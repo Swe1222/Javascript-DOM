@@ -1,0 +1,10 @@
+function Uppercase(){
+  const x=document.getElementById("aa");
+x.value=x.value.toUpperCase();}
+function changeText(id)
+{
+ id.innerHTML="You can proceed";
+}
+function mDown(obj){
+obj.innerHTML="WELCOME";
+}
