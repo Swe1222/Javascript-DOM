@@ -1,0 +1,16 @@
+<html>
+<head>
+<link rel="stylesheet" href="js dom.css">
+<script src="js dom.js"></script>
+</head>
+<body>
+<center>
+<fieldset>
+<input type="text" id="aa" placeholder="Enter" onchange="Uppercase()" ><br><br>
+<h2 onclick="changeText(this)">Proceed...</h2>
+<div id="a" onmousedown="mDown(this)"><b>Click the button</b></div>
+</fieldset>
+</center>
+</body>
+</html>
+
